@@ -1,4 +1,7 @@
-## Gabriel Antônio
+##  Olá, eu sou Gabriel 
+
+### Eu sou desenvolvedor back-end em Garanhuns-PE
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
   <a href="https://github.com/Gabriel-31415">
@@ -15,4 +18,19 @@
   <img align="center" alt="Gabriel-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
 
+## No momento
 
+  * Desenvolvedor/Suporte no website VemVacina de Garanhuns-PE
+  * E faço parte do desenvolvimento de alguns projetos relacionados à faculdade
+
+## Biografia
+  
+  * No momento sou estudante na UFAPE - Universidade Federal do Agreste de Pernambuco
+  * Uso diaramente `.php`, `.js`, `.html`
+  * Trabalho bastante com o framework Laravel
+  * Interesses/hobby
+    * Linux
+    * Docker
+    * Clean Code
+    * Flutter
+    * VueJS
