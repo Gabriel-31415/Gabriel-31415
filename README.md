@@ -1,6 +1,6 @@
 ## Gabriel Antônio  
 
-### Eu sou desenvolvedor back-end em Garanhuns-PE
+### Eu sou desenvolvedor back-end
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
@@ -20,8 +20,12 @@
 
 ## No momento
 
-  * Desenvolvedor/Suporte no website VemVacina de Garanhuns-PE
+
   * E faço parte do desenvolvimento de alguns projetos relacionados à faculdade
+  
+## Trabalhos Anteriores
+  
+  * Desenvolvedor/Suporte no website VemVacina de Garanhuns-PE
 
 ## Biografia
   
