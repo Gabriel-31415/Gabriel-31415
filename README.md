@@ -21,7 +21,7 @@
 ## No momento
 
 
-  * E faço parte do desenvolvimento de alguns projetos relacionados à faculdade
+  * Faço parte do desenvolvimento de alguns projetos relacionados à faculdade
   
 ## Trabalhos Anteriores
   
