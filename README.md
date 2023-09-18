@@ -21,7 +21,6 @@
 ## No momento
 
   * Faço parte do desenvolvimento de alguns projetos relacionados à faculdade
-  * Trabalho na E-TRUST (Pioneira em soluções de Gestão de Identidades e Acessos -IAM, Single Sign- On (SSO) e LGPD)
   
 ## Trabalhos Anteriores
   
