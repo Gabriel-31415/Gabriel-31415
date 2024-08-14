@@ -1,6 +1,6 @@
 ## Gabriel Antônio  
 
-### Eu sou desenvolvedor back-end
+### Eu sou FullStack Javascript
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
@@ -19,21 +19,23 @@
 
 ## No momento
 
-  * Faço parte do desenvolvimento de alguns projetos relacionados à faculdade
+  * Desenvolvedor Trainee Compass Uol
   
 ## Trabalhos Anteriores
   
   * Desenvolvedor/Suporte no website VemVacina de Garanhuns-PE
+  * Desenvolvedor FullStack na Show Tecnologia
+  * Programador I na E-Trust
 
 ## Biografia
   
-  * No momento sou estudante na UFAPE - Universidade Federal do Agreste de Pernambuco
-  * Uso diaramente `.php`, `.js`, `.html`
-  * Trabalho bastante com o framework Laravel
-  * Interesses/hobby
-    * Linux
-    * Docker
-    * Clean Code
-    * Flutter
-    * VueJS
-    * AWS
+  * JavaScript
+  * React JS
+  * Next JS
+  * Node
+  * Banco de dados relacionais
+  * Java
+  * Spring
+  * Laravel
+  * Docker
+  * AWS
