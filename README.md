@@ -17,6 +17,11 @@
   <img align="center" alt="Gabriel-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
 
+## Projetos(Recentes)
+  * [Gerenciamento de Projetos - Frontend](https://github.com/Gabriel-31415/project-manager)
+  * [Gerenciamento de Projetos - Backend](https://github.com/Gabriel-31415/api)
+  * [Autenticação com Next.js - Backend](https://github.com/Gabriel-31415/login-nextjs)
+
 ## No momento
 
   * Desenvolvedor Trainee Compass Uol
