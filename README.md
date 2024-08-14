@@ -1,6 +1,6 @@
 ## Gabriel Antônio  
 
-### Eu sou FullStack Javascript
+### Eu sou Desenvolvedor FullStack Javascript
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
